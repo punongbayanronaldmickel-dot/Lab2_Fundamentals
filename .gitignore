@@ -1,0 +1,13 @@
+.venv/
+# Ignore virtual environment
+.venv/
+__pycache__/
+
+# Ignore system files
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# Ignore unnecessary lab folder
+Lab2_Fundamentals_Punongbayan/
